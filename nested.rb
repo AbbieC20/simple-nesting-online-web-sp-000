@@ -108,13 +108,6 @@ def changing_alan
 end
 
 
-
-
-
-
-
-
-
 def adding_to_dennis
 	programmer_hash =
  		{
@@ -132,4 +125,6 @@ def adding_to_dennis
         }
      }
 
+		 
+		 return programmer_hash
 end
