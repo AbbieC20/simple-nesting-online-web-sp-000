@@ -103,7 +103,7 @@ def changing_alan
         }
      }
 
-		 changing_alan_value = programmer_hash[:dennis_ritchie][:known_for = "GUI"]
+		 changing_alan_value = programmer_hash[:dennis_ritchie][:known_for = {"GUI"}]
 		 return changing_alan_value
 end
 
